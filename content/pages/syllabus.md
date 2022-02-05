@@ -47,15 +47,108 @@ Students taking this course will:
 Assignments and Grading
 -----------------------
 
-| Assignment | Percentage of Grade | DATE DUE |
-| --- | --- | --- |
-| Web page | 5% | Thursday of week 1 |
-| Exercise 1 | 10% | Thursday of week 2 |
-| Exercise 2 | 15% | Thursday of week 3 |
-| Problem set 1 | 20% | Thursday of week 4 |
-| Problem set 2 | 30% | Thursday of week 6 |
-| Exercise 3 | 15% | Thursday of week 7 |
-| Class participation | 5% | N/A 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Assignment
+{{< thclose >}}
+{{< thopen >}}
+Percentage of Grade
+{{< thclose >}}
+{{< thopen >}}
+DATE DUE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Web page
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+{{< tdopen >}}
+Thursday of week 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exercise 1
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+{{< tdopen >}}
+Thursday of week 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exercise 2
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+{{< tdopen >}}
+Thursday of week 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 1
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+Thursday of week 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 2
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+{{< tdopen >}}
+Thursday of week 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exercise 3
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+{{< tdopen >}}
+Thursday of week 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+{{< tdopen >}}
+N/A
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 NO LATE ASSIGNMENTS WILL BE ACCEPTED!! We cannot accept late assignments—the class is too short. If we allow late assignments it holds up grading for all the other students.
