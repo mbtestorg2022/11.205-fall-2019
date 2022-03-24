@@ -26,7 +26,7 @@ Branigan, Tania. [“China Census Could Be First to Record True Population.”](
 
 Bui, Quoctrung, Matt A.V. Chaban, and Jeremy White. [“40 Percent of the Buildings in Manhattan Could Not Be Built Today.”](https://www.nytimes.com/interactive/2016/05/19/upshot/forty-percent-of-manhattans-buildings-could-not-be-built-today.html) _New York Times_, May 20, 2016. 
 
-Carr, Margaret H., and Paul Zwick. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Using GIS Suitability Analysis to Identify Potential Future Land Use Conflicts in North Central Florida" (PDF)](http://ratt.ced.berkeley.edu/readings/GIS_readings/Carr_Zwick_2005.pdf). _Journal of Conservation Planning_ 1 (2005): 89–105.
+Carr, Margaret H., and Paul Zwick. ["Using GIS Suitability Analysis to Identify Potential Future Land Use Conflicts in North Central Florida" (PDF)](http://ratt.ced.berkeley.edu/readings/GIS_readings/Carr_Zwick_2005.pdf). _Journal of Conservation Planning_ 1 (2005): 89–105.
 
 Collins, Michael G., Frederick Steiner, and Michael J. Rushman. [“Land-Use Suitability Analysis in the United States: Historical Development and Promising Technological Achievements.”](https://pubmed.ncbi.nlm.nih.gov/11568842/) _Environmental Management_ 8:5 (2001): 611–621.
 
@@ -44,11 +44,11 @@ Frank, Lawrence D., Mark Bradley, Sarah Kavage, James Chapman, and T. Keith Lawt
 
 Gebeloff, Robert, Haeyoun Park, Matthew Bloch, and Matthew Ericson. [“Where Poor and Uninsured Americans Live.”](http://www.nytimes.com/interactive/2013/10/02/us/uninsured-americans-map.html) _New York Times_, Oct. 2, 2013.
 
-Goldberg, Daniel W., John P. Wilson, and Craig A. Knoblock. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["From Text to Geographic Coordinates: The Current State of Geocoding" (PDF)](https://johnwilson.usc.edu/wp-content/uploads/2016/05/2007-Goldberg-Knoblock-Wilson-JURISA.pdf). _URISA Journal_ 19:1 (2007): 33–46.
+Goldberg, Daniel W., John P. Wilson, and Craig A. Knoblock. ["From Text to Geographic Coordinates: The Current State of Geocoding" (PDF)](https://johnwilson.usc.edu/wp-content/uploads/2016/05/2007-Goldberg-Knoblock-Wilson-JURISA.pdf). _URISA Journal_ 19:1 (2007): 33–46.
 
 Hart, Timothy C., and Paul A. Zandbergen, (2013) ["Reference Data and Geocoding Quality: Examining Completeness and Positional Accuracy of Street Geocoded Crime Incidents."](https://www.ingentaconnect.com/content/mcb/181/2013/00000036/00000002/art00002) _Policing: An International Journal of Police Strategies & Management_, 36:2 (2008): 263–294.
 
-Kar, Bandana, and Michael E. Hodgson. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A GIS‐Based Model to Determine Site Suitability of Emergency Evacuation Shelters" (PDF)](https://people.cas.sc.edu/hodgsonm/Published_Articles_PDF/TGIS_Kar%20and%20Hodgson_Shelter%20Site%20Suitability_TGIS_2008.pdf). _Transactions in GIS_ 12.2 (2008): 227–248.
+Kar, Bandana, and Michael E. Hodgson. ["A GIS‐Based Model to Determine Site Suitability of Emergency Evacuation Shelters" (PDF)](https://people.cas.sc.edu/hodgsonm/Published_Articles_PDF/TGIS_Kar%20and%20Hodgson_Shelter%20Site%20Suitability_TGIS_2008.pdf). _Transactions in GIS_ 12.2 (2008): 227–248.
 
 Kitchin, Rob, Chris Perkins, and Martin Dodge. _Rethinking Maps: New Frontiers in Cartographic Theory._ Routledge (2009). ISBN: 9780415461528.
 
