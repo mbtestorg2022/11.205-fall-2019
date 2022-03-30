@@ -4,6 +4,7 @@ description: A brief video-only clip demonstrating the "join" operation in ArcGI
   software.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-205-introduction-to-spatial-analysis-fall-2019/4d014418e83c2b9605be7ed8ed8f7cbe_MIT11_205F19_join.mp4
 file_type: video/mp4
+parent_uid: 9e0b03e1-6583-a583-6d8f-3732072425cc
 resourcetype: Other
 title: Join
 uid: 4d014418-e83c-2b96-05be-7ed8ed8f7cbe
